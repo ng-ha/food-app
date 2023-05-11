@@ -27,6 +27,8 @@
 
 https://github.com/ng-ha/food-app/assets/115610452/ac968ca0-0b43-4e82-a82b-6b44b4bd586f
 
+https://github.com/ng-ha/food-app/assets/115610452/63c75bb7-ef81-41e4-9179-6258d205de4b
+
 ### License :right_anger_bubble:
 
 [MIT](https://choosealicense.com/licenses/mit/)
