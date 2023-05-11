@@ -8,7 +8,7 @@
 - `@react-navigation/bottom-tabs` and `@react-navigation/native-stack`
 - `@reduxjs/toolkit`
 
-### Screenshots 🌃
+### Screenshots & videos 🌃
 
 <div style="display: flex; flex-wrap: wrap">
 <img width="49%" src="./github-images/1.png" alt="ng-ha" />
@@ -25,9 +25,9 @@
 <img width="49%" src="./github-images/12.png" alt="ng-ha" />
 </div>
 
-IOS | Android
-:-: | :-:
-<video src='https://github.com/ng-ha/food-app/assets/115610452/ac968ca0-0b43-4e82-a82b-6b44b4bd586f' width=180/> | <video src='https://github.com/ng-ha/food-app/assets/115610452/63c75bb7-ef81-41e4-9179-6258d205de4b' width=180/>
+|                                                        IOS                                                         |                                                      Android                                                       |
+| :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| <video src='https://github.com/ng-ha/food-app/assets/115610452/ac968ca0-0b43-4e82-a82b-6b44b4bd586f' width="49%"/> | <video src='https://github.com/ng-ha/food-app/assets/115610452/63c75bb7-ef81-41e4-9179-6258d205de4b' width="49%"/> |
 
 ### License :right_anger_bubble:
 
