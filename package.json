@@ -20,7 +20,7 @@
     "native-base": "^3.4.28",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-native": "0.71.4",
+    "react-native": "0.71.7",
     "react-native-gesture-handler": "~2.9.0",
     "react-native-numeric-input": "^1.9.1",
     "react-native-pager-view": "6.1.2",
